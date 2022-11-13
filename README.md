@@ -3,6 +3,8 @@ Engineering students start to experience placement pressure as their fourth year
 They constantly feel the need to hone their skills and assess where they fit within the group of students
 graduating that year. The system's main objective is to help students perform better. In order to quickly 
 find a respectable employment, students can then evaluate their strengths and flaws and take action to improve them.
+Dataset used in the project was taken from Kaggle.
+DATASET LINK: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement
 
 The formula below can be used to determine accuracy: 
 Accuracy is equal to (TP+TN/TP+FN+FP+TN)100, where TP, TN, FN, and FP stand for the number of true positives, 
